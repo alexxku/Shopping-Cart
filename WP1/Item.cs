@@ -66,6 +66,7 @@ namespace WP1
 
         }
     }
-
+    //You should split your classes into multiple .cs files.
+    //This helps with Readability and Maintability.
     
 }
