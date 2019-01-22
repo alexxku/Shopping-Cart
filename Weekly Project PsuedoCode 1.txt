@@ -1,0 +1,25 @@
+						Weekly Psuedocode 1
+
+						Create an inventory 
+
+					   Inventory items have description
+
+					   Input customer's starting wallet
+
+					  Display customer's starting wallet
+
+					   Input customer's items request
+
+					     Calculate total item cost
+
+			       Calculate difference from total cost and customer's money
+
+					    Display customer final wallet
+					
+					       Display final inventory
+
+				      Customer refill wallet. Inventory refill
+
+						       Repeat
+
+						 Exit if requested
